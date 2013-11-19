@@ -1,5 +1,5 @@
 ![image](screenshot.png)  
-#Schiller Kiez GPS Pattern 
+#Schillerkiez GPS Pattern 
 ##Eingabe/Ausgabe, Prof. Hoinkis, WS 2013/2014 FH Potsdam
 
 GPS Drawing nach folgender Anweisung:
@@ -14,4 +14,4 @@ Deine Wegwahl ist innerhalb dieser Grenzen frei. Du darfst auch mittendrin stopp
 
 Außer in den besagten Grenzen zu bleiben, gibt es die Bedingung, einmal den Herrfurthplatz zu umkreisen. 
 
-##[AUTHOR](https://github.com/davidroettger)  
+##[David Röttger](https://github.com/davidroettger)  
