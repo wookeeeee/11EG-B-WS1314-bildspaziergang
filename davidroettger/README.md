@@ -1,6 +1,6 @@
 ![image](screenshot.png)  
 #Schillerkiez GPS Pattern 
-##Eingabe/Ausgabe, Prof. Hoinkis, WS 2013/2014 FH Potsdam
+##Eingabe/Ausgabe, bei Prof. Hoinkis, WS 2013/2014 FH Potsdam
 
 GPS Drawing nach folgender Anweisung:
 
