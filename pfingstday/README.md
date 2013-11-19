@@ -1,12 +1,15 @@
 ![image](screenshot.png)  
 #GPS Bildspaziergang 
 Befolgen einer schriftlichen Wegbeschreibung als "Blind Operator"
+
 Tracking über "Runkeeper" auf iPhone 5
+
 Visualisierung über Processing
 
 
 ##Anweisung
 Wegbeschreibung von [nushin](https://github.com/nushin):
+
 Startpunkt ist die Bushaltestelle Prenzlauer Allee/Ostseestraße des 156er Busses Richtung Stadion Buschallee/Hansastraße. 
 Von dort aus geht es weiter nach Norden; überquere die Kreuzung Prenzlauer Allee/Ostseestr. und gehe weiter auf der Prenzlauer Promenade (also nach der Kreuzung schräg links). 
 Gehe auf der rechten Seite der Straße, denn du biegst schließlich nach rechts ab in die Brauhausstraße. Gehe diese bis zum Ende. 
@@ -25,4 +28,5 @@ Kauf dir zur Belohnung was leckeres beim Bäcker :)
 [Philipp Pfingsttag](https://github.com/pfingstday)
 
 Kurs: Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung
+
 Prof. Hoinkis, FH-Potsdam, WS 2013/2014
