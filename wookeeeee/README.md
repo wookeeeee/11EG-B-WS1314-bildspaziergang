@@ -1,6 +1,6 @@
 ![image](screenshot.png)  
-#TITLE  
-##DESCRIPTION  
+#GPX_bildspaziergang
+##Anweisung_von_Thomas
 ##[AUTHOR](https://github.com/wookeeeee)  
-Hello my name is [wookeeeee](https://github.com/wookeeeee) and I'd like to say... 
+Jinwook Yun
 ##LICENSE  
